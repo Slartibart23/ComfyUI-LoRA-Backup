@@ -1,0 +1,9 @@
+[project]
+name = "comfyui-lora-backup"
+description = "One-click backup of the LoRAs that are active in your current ComfyUI workflow. Skips disabled Power Lora Loader rows, keeps folder structure, never overwrites unnecessarily."
+version = "1.0.0"
+license = { file = "LICENSE" }
+
+[tool.comfy]
+DisplayName = "LoRA Backup"
+PublisherId = ""
