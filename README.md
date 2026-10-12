@@ -23,7 +23,7 @@ This node solves that: press one button and all LoRAs that are **currently activ
 2. Clone this repository:
 
    ```
-   git clone https://github.com/YOUR_USERNAME/ComfyUI-LoRA-Backup.git
+   git clone https://github.com/Slartibart23/ComfyUI-LoRA-Backup.git
    ```
 
    Or download the repository as a ZIP and extract it into `custom_nodes/` so that the structure looks like this:
