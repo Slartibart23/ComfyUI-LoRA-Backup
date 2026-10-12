@@ -4,6 +4,9 @@ description = "One-click backup of the LoRAs that are active in your current Com
 version = "1.0.0"
 license = { file = "LICENSE" }
 
+[project.urls]
+Repository = "https://github.com/Slartibart23/ComfyUI-LoRA-Backup"
+
 [tool.comfy]
 DisplayName = "LoRA Backup"
-PublisherId = ""
+PublisherId = "slartibart23b"
